@@ -1,1 +1,1 @@
-# xushuwang.github.io
+remote_theme: Hydejack
